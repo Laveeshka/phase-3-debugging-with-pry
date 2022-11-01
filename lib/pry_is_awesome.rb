@@ -1,4 +1,4 @@
-require 'pry'
+require 'pry' #require is a method that loads the `pry` library, similar to the `import` keyword in JavaScript
 
 def prying_into_the_method
 	inside_the_method = "We're inside the method"
